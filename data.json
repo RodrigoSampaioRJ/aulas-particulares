@@ -1,0 +1,14 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "avatar_url": "https://source.unsplash.com/FcLyt7lW5wg/400x400",
+            "name": "Rodrigo Pereira Sampaio",
+            "birthday": 856915200000,
+            "grade": "Doutorado",
+            "class_type": "Presencial",
+            "matters": "Matematica, Espanhol",
+            "created_at": 1595547613745
+        }
+    ]
+}
